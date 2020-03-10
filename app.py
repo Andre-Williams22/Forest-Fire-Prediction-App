@@ -6,12 +6,12 @@ app = Flask(__name__)
 
 model=pickle.load(open('model.pkl','rb'))
 
-
+# regular route 
 @app.route('/')
 def hello_world():
     return render_template("forest_fire.html")
 
-
+# prediction route for ml model
 @app.route('/predict',methods=['POST','GET'])
 def predict():
     int_features=[int(x) for x in request.form.values()]
