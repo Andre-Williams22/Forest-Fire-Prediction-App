@@ -1,7 +1,7 @@
 # Forest-fire-prediction-app
 
 
-![ForestFire Site](https://github.com/Andre-Williams22/Forest-fire-prediction-app/tree/master/static/materialize/img/screenshot.png)
+![ForestFire Site](https://github.com/Andre-Williams22/Forest-fire-prediction-app/blob/master/static/materialize/img/screenshot.png))
 
 Author: **[Andre-Williams](https://www.linkedin.com/in/andrewilliams22/)** 
 
