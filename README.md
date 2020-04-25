@@ -9,6 +9,14 @@ Author: **[Andre-Williams](https://www.linkedin.com/in/andrewilliams22/)**
 ## Description
 This application uses multiple linear regression, a supervised machine learning technique, to take in inputs and predict forest fires in your area given the oxygen, temperature, and humidity. 
 
+## Technologies
+- Python
+- Flask 
+- Machine Learning
+- Bootstrap 
+- HTML 5
+- CSS
+- Heroku 
 
 ## Live
 
