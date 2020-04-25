@@ -1,4 +1,4 @@
-# Forest-fire-prediction-app
+# Forest-Fire-Prediction-App
 
 
 ![ForestFire Site](https://github.com/Andre-Williams22/Forest-fire-prediction-app/blob/master/static/materialize/img/screenshot.png)
