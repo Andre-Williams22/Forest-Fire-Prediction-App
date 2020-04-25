@@ -12,7 +12,7 @@ This application uses multiple linear regression, a supervised machine learning 
 ## Technologies
 - Python
 - Flask 
-- Machine Learning
+- Machine Learning(Sklearn)
 - Bootstrap 
 - HTML 5
 - CSS
@@ -21,7 +21,6 @@ This application uses multiple linear regression, a supervised machine learning 
 ## Live
 
 **[View Live Preview](https://text-summaryzer.herokuapp.com/)**
-
 
 
 
