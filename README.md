@@ -1,6 +1,7 @@
 # Forest-fire-prediction-app
 
 
+![ForestFire Site](https://github.com/Andre-Williams22/Forest-fire-prediction-app/tree/master/static/materialize/img)
 
 Author: **[Andre-Williams](https://www.linkedin.com/in/andrewilliams22/)** 
 
@@ -12,7 +13,6 @@ This application uses multiple linear regression, a supervised machine learning 
 ## Live
 
 **[View Live Preview](https://text-summaryzer.herokuapp.com/)**
-
 
 
 
