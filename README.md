@@ -20,7 +20,7 @@ This application uses multiple linear regression, a supervised machine learning 
 
 ## Live
 
-**[View Live Preview](https://text-summaryzer.herokuapp.com/)**
+**[View Live Preview](https://forest-fire-predictor.herokuapp.com/)**
 
 
 
